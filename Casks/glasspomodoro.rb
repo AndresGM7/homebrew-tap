@@ -1,6 +1,6 @@
 cask "glasspomodoro" do
-  version "1.2.0"
-  sha256 "50ffaef04927501e7d42bb5e854f0b0fe8aac3938919cdea76da9bc94642b534"
+  version "1.3.0"
+  sha256 "620413587c551460130fa80f116531eaf97012454b9ae961e86cb91ee9b967e9"
 
   url "https://github.com/AndresGM7/GlassPomodoro/releases/download/v#{version}/GlassPomodoro.zip"
   name "GlassPomodoro"
